@@ -39,7 +39,7 @@
         },
         "overrides": [
           {
-            "files": ["**/*.ts?(x)"],
+            "files": ["**/*.js?(x)"],
             "rules": {
               "max-len": "warn"
             }
